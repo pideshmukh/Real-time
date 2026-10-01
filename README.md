@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Live Streaming in Databricks — every operation, one coherent demo" width="100%" />
-
 <br />
 
 # Structured Streaming on Databricks — Every Operation, One Demo
