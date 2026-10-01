@@ -1,7 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
 # MAGIC # SCD Type 1, 2 & 3 — minimal working demo
-# MAGIC ### (runs as-is on Databricks Community Edition)
 # MAGIC
 # MAGIC **Scenario:** a dimension table `dim_emp` where the attribute `dept` changes over time.
 # MAGIC
